@@ -1,4 +1,4 @@
-# Assignment3 - Parallel Merge Sort using MPI
+# Parallel Merge Sort using MPI
 
 ## How to run
 	mpicc -lm <src_name> -o <obj_name>
